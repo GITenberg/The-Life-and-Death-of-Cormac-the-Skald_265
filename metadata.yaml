@@ -1,5 +1,5 @@
 _repo: The-Life-and-Death-of-Cormac-the-Skald_265
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Kormáks saga. English
 contributor:
   translators:
@@ -17,7 +17,12 @@ contributor:
     gutenberg_agent_id: '4819'
     url: http://www.gutenberg.org/2009/agents/4819
     wikipedia: http://en.wikipedia.org/wiki/W._G._Collingwood
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/265#The-Life-and-Death-of-Cormac-the-Skald
 gutenberg_issued: '2008-07-03'
 gutenberg_type: Text
 identifiers:
